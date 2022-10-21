@@ -38,7 +38,7 @@ Follow me guys, let's improve your skill ML
 - [ ] Click-Through Rate Prediction
 - [ ] Social Media Followers Prediction
 
-#### 6. WEEK 6 ( 28 November - 02 Oktober 2022)
+#### 6. WEEK 6 ( 28 November - 02 Desember 2022)
 - [ ] Hate Speech Detection
 - [ ] Social Media Ads Classification
 - [ ] Diamond Price Prediction
