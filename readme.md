@@ -4,7 +4,7 @@ Hello ✋
 Follow me guys, let's improve your skill ML
 
 #### 1. WEEK 1 ( 24 - 28 Oktober 2022)
-- [ ] Sarcasm Detection
+- [x] Sarcasm Detection
 - [ ] Ukraine Russia War Twitter Sentiment Analysis
 - [ ] Stress Detection
 - [ ] Language Detection
