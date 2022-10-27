@@ -7,7 +7,7 @@ Follow me guys, let's improve your skill ML
 - [x] Sarcasm Detection
 - [x] Ukraine Russia War Twitter Sentiment Analysis
 - [x] Stress Detection
-- [ ] Language Detection
+- [x] Language Detection
 - [ ] Iris Flow Detection
 
 #### 2. WEEK 2 ( 31 Oktober - 04 November 2022)
