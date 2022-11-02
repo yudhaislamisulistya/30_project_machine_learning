@@ -13,7 +13,7 @@ Follow me guys, let's improve your skill ML
 #### 2. WEEK 2 ( 31 Oktober - 04 November 2022)
 - [x] News Classification
 - [x] Pfizer Vaccine Sentiment Analysis
-- [ ] Omicron Sentiment Analysis
+- [x] Omicron Sentiment Analysis
 - [ ] Iris Flower Classifaction
 - [ ] Apple Stock Price Prediction
 
